@@ -10,7 +10,7 @@ a course on time series processing taught to master's students in 2025-2026
 - Финальный проект
 
 
-#Соответствие практик и номеров лабораторных работ:
+# Cоответствие практик и номеров лабораторных работ:
 
    1 практика - 1, 2
 
@@ -45,7 +45,7 @@ a course on time series processing taught to master's students in 2025-2026
    18 практика - консультация по финальному проекту
    
 
-#Соответствие контрольных точек и лабораторных работ
+# Соответствие контрольных точек и лабораторных работ
 1 КТ - 1 - 6
 
 2 КТ - 7 - 11
@@ -63,6 +63,7 @@ a course on time series processing taught to master's students in 2025-2026
 [1]  J. Lines, LM Davis, J Hills, A Bagnall, A shapelet transform for time series
 classification, Proceedings of the 18th ACM SIGKDD international conference on
 Knowledge, 2012
+
 [2] J Hills, J Lines, E Baranauskas, J Mapp, A Bagnall, Classification of time series
 by shapelet transformation, Data mining and knowledge discovery 28, 851-881, 2014
  
