@@ -8,3 +8,62 @@ a course on time series processing taught to master's students in 2025-2026
 - 18 (36 часов) практик
 
 - Финальный проект
+
+
+#Соответствие практик и номеров лабораторных работ:
+
+   1 практика - 1, 2
+
+   2 практика - 3
+
+   3 практика - 4
+
+   4 практика - 5
+
+   5 практика - 6
+
+   6 практика - 7
+
+   7 практика - 8
+
+   8 практика - 9
+
+   9 практика - 10
+
+   10 практика - 11
+
+   11, 12 практика - 12
+ 
+   13 практика - 13
+
+   14, 15 практика - 14
+
+   16 практика - 15
+
+   17 практика - 16
+
+   18 практика - консультация по финальному проекту
+   
+
+#Соответствие контрольных точек и лабораторных работ
+1 КТ - 1 - 6
+
+2 КТ - 7 - 11
+
+3 КТ - 12 - 16
+
+ИКМ  - финальный проект
+
+
+
+
+
+## References  
+
+[1]  J. Lines, LM Davis, J Hills, A Bagnall, A shapelet transform for time series
+classification, Proceedings of the 18th ACM SIGKDD international conference on
+Knowledge, 2012
+[2] J Hills, J Lines, E Baranauskas, J Mapp, A Bagnall, Classification of time series
+by shapelet transformation, Data mining and knowledge discovery 28, 851-881, 2014
+ 
+
