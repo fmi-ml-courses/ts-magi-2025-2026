@@ -60,11 +60,11 @@ a course on time series processing taught to master's students in 2025-2026
 
 ## References  
 
-[1]  J. Lines, LM Davis, J Hills, A Bagnall, A shapelet transform for time series
-classification, Proceedings of the 18th ACM SIGKDD international conference on
-Knowledge, 2012
+https://github.com/FilippoMB/python-time-series-handbook
 
-[2] J Hills, J Lines, E Baranauskas, J Mapp, A Bagnall, Classification of time series
-by shapelet transformation, Data mining and knowledge discovery 28, 851-881, 2014
+https://tslearn.readthedocs.io/en/stable/
+
+https://github.com/aeon-toolkit/aeon/
+
  
 
